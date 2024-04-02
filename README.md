@@ -13,9 +13,6 @@ Marketing Digital & Data Science student
 
 
 ## Other Common Github Profile Sections
-🎨 I love to create and draw 
-
-🎯 I'm making my own web store 
 
 👾 Discord: Myu❀.html#6208
 
