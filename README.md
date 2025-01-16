@@ -1,9 +1,9 @@
 
-# Hi, I'm Myu! 🌸
+# Olá! Eu sou a Gabih! 🌸
 
 
 ## 📌 About Me
-Marketing Digital & Data Science student
+Formada em Marketing Digital Data Science student
 
 
 ## 🔗 Links
@@ -15,12 +15,10 @@ Marketing Digital & Data Science student
 
 
 
-
-
 ## 🛠 Skills
 
-Data Science ★★☆☆☆
+Data Science ★★★☆☆
 
-Python  ★★☆☆☆
+Python ★★☆☆☆
 
-Photosop ★★★☆☆
+Power BI ★★★★☆
